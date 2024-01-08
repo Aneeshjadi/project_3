@@ -1,0 +1,13 @@
+class Test
+{
+int a=100, b=500,c;//variables
+void sum()
+	{
+	c=a+b;//coding 
+ system.out.println("sum="+c);
+	} public static void main(string args[])
+{
+	test t=new Test();
+	t.sum();
+	}
+}
