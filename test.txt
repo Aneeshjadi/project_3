@@ -1,3 +1,5 @@
+this is java code 
+
 class Test
 {
 int a=100, b=500,c;//variables
