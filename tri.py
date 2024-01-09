@@ -1,4 +1,4 @@
-This is right triangular model of matrix number system
+This is right triangular model of matrix number system...
 
 n=int(input("enter no of rows:"))
 k=0
