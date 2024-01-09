@@ -1,3 +1,5 @@
+This is right triangular model of matrix number system
+
 n=int(input("enter no of rows:"))
 k=0
 for i in range(1,n+1):
