@@ -1,3 +1,4 @@
+this is reversing a number in python
 n=int(input("enter any number"))
 m=n
 rev=0
